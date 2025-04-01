@@ -111,6 +111,12 @@ export const workData = [
     bgImage: "/work-4.png",
     link: "https://travel-planner-omega-ten.vercel.app/",
   },
+  {
+    title: "Wild Oasis",
+    description: "Cabin reservation project",
+    bgImage: "/work-5.png",
+    link: "https://the-wild-oasis-website-five-mu.vercel.app/",
+  },
 ];
 
 export const serviceData = [
