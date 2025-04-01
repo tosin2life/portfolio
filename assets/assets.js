@@ -37,8 +37,12 @@ import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import logo1 from "./logo1.png";
 import supabase from "./supabase-icon.png";
+import profile from "./profile.png";
+import ghibli_profile from "./ghibli_profile.png";
+import profile_image from "./profile_image.jpg";
 
 export const assets = {
+  profile_image,
   user_image,
   code_icon,
   code_icon_dark,
@@ -78,6 +82,8 @@ export const assets = {
   right_arrow_bold,
   right_arrow_bold_dark,
   supabase,
+  profile,
+  ghibli_profile,
 };
 
 export const workData = [

@@ -12,7 +12,7 @@ function Header() {
         transition={{ duration: 0.8, type: "spring", stiffness: 100 }}
       >
         <Image
-          src={assets.profile_img}
+          src={assets.profile}
           alt="profile-image"
           className="rounded-full w-32"
         />
