@@ -53,7 +53,7 @@ function Header() {
         >
           <Link
             href={"#contact"}
-            target="-blank"
+            target="_blank"
             className="px-10 py-3 bg-black border border-white rounded-full flex items-center gap-2 text-white dark:bg-transparent"
           >
             contact me
